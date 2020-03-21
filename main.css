@@ -1,0 +1,25 @@
+/* CSS file for animal.js
+Written by Daniel Matyas Perendi
+Date: 28/11/2018 */
+
+/* Style the canvas */
+canvas {
+    float: left;
+    border: 1px solid black;
+    margin: 0 15px 15px 0;
+}
+/* Style the buttons */
+button {
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin: 3px;
+    padding: 15px 35px;
+    width: 150px;
+}
+
+/* Put the description underneath the canvas */
+#description {
+    clear: both;
+}
